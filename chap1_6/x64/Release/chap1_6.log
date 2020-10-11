@@ -1,0 +1,15 @@
+﻿  StdAfx.cpp
+D:\2015\install\VC\atlmfc\include\afx.h(38): warning C4996: 'MBCS_Support_Deprecated_In_MFC': MBCS support in MFC is deprecated and may be removed in a future version of MFC.
+  D:\2015\install\VC\atlmfc\include\afx.h(33): note: 参见“MBCS_Support_Deprecated_In_MFC”的声明
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  chap1_6.cpp
+  chap1_6Doc.cpp
+  chap1_6View.cpp
+  ChildFrm.cpp
+  ImgCenterDib.cpp
+ImgCenterDib.cpp(223): warning C4244: “参数”: 从“ULONGLONG”转换到“UINT”，可能丢失数据
+  MainFrm.cpp
+  SpecialEffectShow.cpp
+  正在生成代码...
+  chap1_6.vcxproj -> E:\吕俊杰\vcplusimagepro_havelearn\chap1_6\x64\Release\chap1_6.exe
+  chap1_6.vcxproj -> E:\吕俊杰\vcplusimagepro_havelearn\chap1_6\x64\Release\chap1_6.pdb (Full PDB)
