@@ -1,0 +1,12 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  StdAfx.cpp
+D:\2015\install\VC\atlmfc\include\afx.h(38): warning C4996: 'MBCS_Support_Deprecated_In_MFC': MBCS support in MFC is deprecated and may be removed in a future version of MFC.
+  D:\2015\install\VC\atlmfc\include\afx.h(33): note: 参见“MBCS_Support_Deprecated_In_MFC”的声明
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  chap1_2.cpp
+  chap1_2Doc.cpp
+  chap1_2View.cpp
+  MainFrm.cpp
+  正在生成代码...
+  chap1_2.vcxproj -> E:\吕俊杰\vcplusimagepro_havelearn\chap1_2\.\x64\Release\hchap1_2.exe
+  chap1_2.vcxproj -> .\x64\Release\hchap1_2.pdb (Full PDB)
